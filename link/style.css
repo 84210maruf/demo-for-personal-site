@@ -215,7 +215,9 @@ textarea{
 
 .sameslaidbar ul li:last-child{border-bottom: 0px dashed #B0EC3F;}
 .sameslaidbar ul li a :hover {}
-.populer{}
+.populer{
+	
+}
 .populer h3{font-size: 15px;border-bottom: 1px dashed #2E7E35;margin-bottom: 10px;padding-bottom: 5px;color: #2E7E35;}
 .populer img{width: 94px;background: #fff;border: 1px solid #2E7E35;padding: 4px;float: left;margin-right: 10px;border-radius: 30px;}
 .populer p{font-size: 14px;line-height: 20px;text-align: justify;}
